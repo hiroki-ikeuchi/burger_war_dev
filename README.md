@@ -1,3 +1,5 @@
+[![Burger-War Image Build & Test](https://github.com/hiroki-ikeuchi/burger_war_dev/actions/workflows/image-test.yml/badge.svg)](https://github.com/hiroki-ikeuchi/burger_war_dev/actions/workflows/image-test.yml)
+
 このレポジトリは、大会参加者がロボット動作プログラムを作成するためのベースとなるレポジトリです。
 参加者の方はこのレポジトリをforkして開発をして下さい。
 
